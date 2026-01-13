@@ -3,7 +3,7 @@
     "fileupdatesurl": "https://downloads.minecrafteduservices.com/win32/x86/updates/Updates.txt",
     "previewVersions": [
         {
-            "version": "Preview 1.21.13102.0",
+            "version": "Preview 1.21.131",
             "urls": [    
                 "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.13102.0.exe"
             ]
@@ -11,12 +11,13 @@
     ],
     "releaseVersions": [
         {
-            "version": "Release 1.21.9301.0",
+            "version": "Release 1.21.93",
             "urls": [
                 "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9301.0.exe"
             ]
         }     
     ]
 }
+
 
 
