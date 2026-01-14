@@ -10,14 +10,27 @@
         }      
     ],
     "releaseVersions": [
-        {
+       {
             "version": "Release 1.21.93",
             "urls": [
                 "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9301.0.exe"
             ]
-        }     
+        },
+        {
+            "version": "Release 1.19.53",
+            "urls": [
+                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.53.0.exe"
+            ]
+        },
+        {
+            "version": "Release 1.19.52",
+            "urls": [
+                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.52.0.exe"
+            ]
+        }   
     ]
 }
+
 
 
 
