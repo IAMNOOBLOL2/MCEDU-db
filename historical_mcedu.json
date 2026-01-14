@@ -1,56 +1,182 @@
 {
-    "file_version": 0,
-    "fileupdatesurl": "https://downloads.minecrafteduservices.com/win32/x86/updates/Updates.txt",
-    "previewVersions": [
-        {
-            "version": "Preview 1.21.131",
-            "urls": [    
-                "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.13102.0.exe"
-            ]
-        }      
-    ],
-    "releaseVersions": [
-       {
-            "version": "Release 1.21.93",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9301.0.exe"
-            ]
-        },
-        {
-            "version": "Release 1.20.12",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.20.1200.0.exe"
-            ]
-        },
-        {
-            "version": "Release 1.20.13",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.20.1300.0.exe"
-            ]
-        },
-        {
-            "version": "Release 1.19.53",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.53.0.exe"
-            ]
-        },
-        {
-            "version": "Release 1.19.52",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.52.0.exe"
-            ]
-        },
-        {
-            "version": "Release 1.18.45.0",
-            "urls": [
-                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.18.45.0.exe"
-            ]
-        }  
-    ]
+  "file_version": 0,
+  "fileupdatesurl": "https://downloads.minecrafteduservices.com/win32/x86/updates/Updates.txt",
+  "previewVersions": [
+    {
+      "version": "Preview 1.21.131.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.13102.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.131",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.13102.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.110.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.11001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.91",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.90.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.9001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.80.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.8001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.51.0",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.5100.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.50.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.5001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.40.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.4001.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.8.0",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.800.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.21.01.0",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.100.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.20.12",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.20.1200.0.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.19.52.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.19.52.1.exe"
+      ]
+    },
+    {
+      "version": "Preview 1.19.51.0",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.19.51.0.exe"
+      ]
+    }
+  ],
+  "releaseVersions": [
+    {
+      "version": "Release 1.21.93",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9301.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.92",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9201.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.91",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9101.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.90.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9001.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.90",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.900.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.10",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.1000.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.6",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.600.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.5.1",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.501.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.5",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.500.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.21.3",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.300.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.20.13",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.20.1305.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.20.12",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.20.1200.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.19.53",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.53.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.19.52",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.52.0.exe"
+      ]
+    },
+    {
+      "version": "Release 1.18.45.0",
+      "urls": [
+        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.18.45.0.exe"
+      ]
+    }
+  ]
 }
-
-
-
-
-
-
