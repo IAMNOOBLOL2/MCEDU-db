@@ -27,9 +27,16 @@
             "urls": [
                 "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.19.52.0.exe"
             ]
-        }   
+        },
+        {
+            "version": "Release 1.18.45.0",
+            "urls": [
+                "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.18.45.0.exe"
+            ]
+        }  
     ]
 }
+
 
 
 
