@@ -19,19 +19,7 @@
       "urls": [
         "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.11001.0.exe"
       ]
-    },
-    {
-      "version": "Preview 1.21.91",
-      "urls": [
-        "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x64/MinecraftEducation_x64_1.21.9001.0.exe"
-      ]
-    },
-    {
-      "version": "Preview 1.21.90.1",
-      "urls": [
-        "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x64/MinecraftEducation_x64_1.21.9001.0.exe"
-      ]
-    },
+    },    
     {
       "version": "Preview 1.21.80.1",
       "urls": [
@@ -57,13 +45,13 @@
       ]
     },
     {
-      "version": "Preview 1.21.8.0",
+      "version": "Preview 1.21.8",
       "urls": [
         "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.800.0.exe"
       ]
     },
     {
-      "version": "Preview 1.21.01.0",
+      "version": "Preview 1.21.1",
       "urls": [
         "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.21.100.0.exe"
       ]
@@ -81,7 +69,7 @@
       ]
     },
     {
-      "version": "Preview 1.19.51.0",
+      "version": "Preview 1.19.51",
       "urls": [
         "https://downloads.minecrafteduservices.com/mee-betabuilds/msi/x86/MinecraftEducation_x86_1.19.51.0.exe"
       ]
@@ -180,3 +168,4 @@
     }
   ]
 }
+
