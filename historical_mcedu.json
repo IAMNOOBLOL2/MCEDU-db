@@ -291,6 +291,12 @@
       "urls": [
         "https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducationEdition_x86_1.9.1.0.exe"
       ]
+    },
+    {
+      "version": "Release 1.0.18.0",
+      "urls": [
+        "https://web.archive.org/web/20171025002738/https://meedownloads.blob.core.windows.net/1-0-18-release-20170719/Win10/Minecraft%20Education%20Edition%201.0.18.0.zip"
+      ]
     }
   ]
 }
